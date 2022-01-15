@@ -5,15 +5,13 @@
 
 `todo` is a simple todo list command-line tool written in Rust.
 
-
 ## Install
 
 You can install `todo` with the following:
 
 ```sh-session
-$ cargo install --git https://github.com/thekuwayama/todo.git --branch main
+$ cargo install --git https://github.com/kaigedong/todo.git --branch main
 ```
-
 
 ## Usage
 
@@ -135,14 +133,12 @@ $ todo list
 
 ```
 
-
 ## Note
 
 `todo` is inspired by:
 
 - https://github.com/todotxt/todo.txt-cli
 - https://github.com/mattn/todo
-
 
 ## License
 
